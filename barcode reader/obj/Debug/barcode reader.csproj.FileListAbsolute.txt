@@ -1,0 +1,73 @@
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\barcode reader.exe.config
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\barcode reader.exe
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\barcode reader.pdb
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\zxing.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\zxing.presentation.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\zxing.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\zxing.presentation.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.csproj.AssemblyReference.cache
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.csproj.SuggestedBindingRedirects.cache
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode_reader.Properties.Resources.resources
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.csproj.GenerateResource.cache
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.csproj.CoreCompileInputs.cache
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.csproj.CopyComplete
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.exe
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.pdb
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\ImageProcessor.Web.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.ValueTuple.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\ImageProcessor.Web.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.IO.RecyclableMemoryStream.pdb
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.ValueTuple.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Buffers.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Memory.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Json.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Buffers.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Memory.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Json.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.AspNetCore.Cryptography.Internal.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.AspNetCore.Cryptography.KeyDerivation.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode_reader.MainPage.resources
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode_reader.ProductPage.resources
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\barcode reader.exe.manifest
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\barcode reader.application
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.exe.manifest
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\obj\Debug\barcode reader.application
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\libzstd.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\snappy32.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\snappy64.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\libsnappy64.so
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\libzstd.so
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\libsnappy64.dylib
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\libzstd.dylib
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\mongocrypt.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\DnsClient.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Bson.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Driver.Core.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Driver.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Libmongocrypt.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\SharpCompress.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Security.AccessControl.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\DnsClient.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Bson.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Driver.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\MongoDB.Driver.Core.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Security.AccessControl.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\Diego Pennesi\source\repos\barcode reader\barcode reader\bin\Debug\System.Text.Encoding.CodePages.xml
